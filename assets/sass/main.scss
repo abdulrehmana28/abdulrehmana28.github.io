@@ -669,6 +669,7 @@ $size-header-pad: 4em;
 
 			img {
 				width: 100%;
+				height: auto;
 			}
 		}
 
@@ -676,9 +677,11 @@ $size-header-pad: 4em;
 			display: block;
 			margin: 0 0 _size(element-margin) 0;
 			width: 100%;
+			height: auto;
 
 			img {
 				width: 100%;
+				height: auto;
 			}
 		}
 
@@ -692,6 +695,7 @@ $size-header-pad: 4em;
 			img {
 				border-radius: 100%;
 				width: 100%;
+				
 			}
 		}
 	}
